@@ -1,6 +1,8 @@
 # SpongeBob-doxxing-server
 Troll friends and anyone else by doxxing them
 
+![](https://raw.githubusercontent.com/LeadSeason/SpongeBob-Doxxing-server/main/Images/127.0.0.1.jpg)
+
 ## Use
 ```
 $ python -m venv ./venv/
