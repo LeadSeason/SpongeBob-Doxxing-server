@@ -1,0 +1,9 @@
+aiofiles==0.8.0
+httptools==0.4.0
+multidict==5.2.0
+Pillow==9.0.1
+sanic==21.12.1
+sanic-routing==0.7.2
+ujson==5.1.0
+uvloop==0.16.0
+websockets==10.2
